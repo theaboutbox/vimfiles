@@ -1,0 +1,8 @@
+[
+"https://github.com/scrooloose/nerdtree.git",
+"git://github.com/tpope/vim-rails.git",
+"https://github.com/mileszs/ack.vim.git",
+"https://github.com/kien/ctrlp.vim.git",
+"https://github.com/ervandew/supertab.git",
+"https://github.com/scrooloose/syntastic.git"
+]
