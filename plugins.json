@@ -4,5 +4,6 @@
 "https://github.com/mileszs/ack.vim.git",
 "https://github.com/kien/ctrlp.vim.git",
 "https://github.com/ervandew/supertab.git",
-"https://github.com/scrooloose/syntastic.git"
+"https://github.com/scrooloose/syntastic.git",
+"https://github.com/tpope/vim-surround.git"
 ]

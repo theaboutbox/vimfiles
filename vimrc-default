@@ -44,3 +44,5 @@ nnoremap <f3> :TlistToggle<cr>
 "Ack on ubuntu
 let g:ackprg="ack-grep -H --nocolor --nogroup --column"
 
+"Map Ctrl-T to CtrlP
+nnoremap <C-T> :CtrlP<CR>
